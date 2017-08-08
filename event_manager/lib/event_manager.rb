@@ -107,5 +107,7 @@ contents.each do |row|
 	save_thank_you_letters(id, form_letter)
 end
 
+
+
 show_registration_times(registration_dttms, by:'hour')
 show_registration_times(registration_dttms, by:'weekday')
