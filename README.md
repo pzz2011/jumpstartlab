@@ -1,4 +1,4 @@
-jumpstartlab
+jumpstartlab-test.pr
 ============
 
 JumpstartLab Tutorials
