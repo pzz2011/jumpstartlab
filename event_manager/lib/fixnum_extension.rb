@@ -14,6 +14,7 @@ class Fixnum
        when 7 then 'nullspace'
        when 8 then 'nullspace2017'
        when 10 then 'nullspace2019'
+       when 9 then 'nullspace2018'
        end
      end
 end 
