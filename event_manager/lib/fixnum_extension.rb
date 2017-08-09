@@ -13,6 +13,7 @@ class Fixnum
        when 6 then 'Saturday' 
        when 7 then 'nullspace'
        when 8 then 'nullspace2017'
+       when 10 then 'nullspace2019'
        end
      end
 end 
