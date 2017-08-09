@@ -10,7 +10,10 @@ class Fixnum
        when 3 then 'Wednesday'
        when 4 then 'Thursday'
        when 5 then 'Friday'
-       when 6 then 'Saturday'
+       when 6 then 'Saturday' 
+       when 7 then 'nullspace'
+       when 8 then 'nullspace2017'
+       when 9 then 'nullspace2018'
        end
      end
 end 
